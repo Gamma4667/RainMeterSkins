@@ -1,8 +1,11 @@
 # RainMeterSkins
 Custom RainMeter Skins
 
-Download the Free, Open-Source RainMeter utility for Windows from here:
+The Official RainMeter website is here:
 https://www.rainmeter.net/
+
+Download the Free, Open-Source RainMeter utility for Windows from here:
+https://builds.rainmeter.net/
 
 ## 1 - New Moon
 
