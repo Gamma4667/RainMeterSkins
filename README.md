@@ -7,6 +7,18 @@ Download the Free, Open-Source RainMeter utility for Windows [from here](https:/
 
 ## 1 - New Moon
 
-This Rainmeter skin, more accurately referred to as "The Current Moon Phase," displays real-time moon phase information on your desktop. It extracts data from timeanddate.com, including the current moon percentage and moon type (Full Moon, Waning Gibbous, etc.), and updates every hour. The skin simplifies the moon types into two categories - Waxing and Waning - and calculates the appropriate image file number based on the moon percentage. It then displays the moon phase image, percentage, and type using visually appealing text and images. This project allows users to stay informed about the moon's current phase in a convenient and aesthetically pleasing manner.
+Display real-time moon phase information on your desktop! 
 
-This uses facts on the moon phase, parsed from [Time and Date.com](https://www.timeanddate.com/moon/phases/)
+This Rainmeter skin may be more accurately referred to as *"The Current Moon Phase"*. 
+
+This project allows users to stay informed about the moon's current phase in a convenient and aesthetically pleasing manner.
+It displays a realistic image of the moon phase, with textual information on the moon's percentage to full, and its phase type.
+
+It extracts relevant data from [Time and Date.com](https://www.timeanddate.com/moon/phases/), being:
+- The current moon percentage - accurate to 1 decimal place, and 
+- The current moon type in 8 stages - Full Moon, Waning Gibbous, etc. 
+
+To maintain low resource demands, and given the slow change, the skin updates once every hour, with the percentage updating more regularly - every 6 minutes. 
+Relatively high-resolution photography has been sourced from NASA, before being manually edited for transparency - making it accurate to within ~7 hours of the day while conserving disk space (i.e. 100 images / 29.5 days). 
+
+To function, the skin simplifies the moon types into two categories - Waxing (becoming full) and Waning (becoming a new moon) - calculating the appropriate folder with this information, then calculating the appropriate image file number based on the current percentage of full moon. 
