@@ -1,0 +1,96 @@
+Astrology Typeface by "Laser Printing Solutions"          Date: 10/22/03
+
+The enclosed ASTRO font has been specifically designed for use with
+Astrology programs. It is the same original Astro font produced by
+Kenneth Hirst, but with two additional glyphs--chiron and lilith (Dark Moon). 
+This font can also be used within published documents, graphics programs, 
+etc. Launch Windows Write and print out ASTRO.WRI for symbol explanation.
+
+This lastest compilation (10/20/03) provides extra tables and dropout
+prevention to display more clearly on low resolution screens.
+
+If you are NOT using a font utility to select "font groups," then to
+install the TrueType font, simply launch Windows, open the Control
+Panel, select Fonts, then File | Install New Font, and choose
+Astro from the correct directory.
+
+Once installed, print out the ASTRO.rtf file for symbol location/name.
+
+Note: If you have already installed an Astro font into your system, I
+recommend that you remove it. Back up the old font file if necessary 
+and delete it from the system using the Control Panel. Otherwise, you
+may experience some difficulty (see printing.txt for troubleshooting).
+
+If when using a program like Microsoft Word, you are unable to display
+certain symbols like the "opposition" and "sextile", this means that 
+AutoFormatting is changing the underlying value for the symbol. Simply
+enter Ctrl+Z or use the Undo AutoFormat function. You can also open the
+file (attached) called ASTRO.rtf and select any of the displayed symbols,
+press Ctrl+C (to copy) and Ctrl+V to paste into your document.
+
+You can also use the in-built Charmap.exe, click the Start button, Run,
+enter Charmap.exe and click OK Select Astro as the font. Select the
+opposition symbol (second from top left). Press the Select button,
+then the Copy button. In Word, simply use paste to insert the opposition
+symbol. Now you can  select it and change size, etc.
+
+Note that you will not be able to embed the Astro font into a document.
+Legally, you will need to purchase the font, or it's extended version to
+do this.  Also note that if the font is used commercially, a license is
+required.
+
+If you obtained the font Astro-SemiBold from the net, and looks
+similar to this font, it is an improper conversion of my font and is
+likely to cause printing problems and system crashes due to the nature of
+its poor conversion. If you know of such a font being distributed on the 
+net, please advise me.
+
+Although submitted as shareware, this font is *not* to be financially 
+distributed (or placed on any disk, or BBS for which a charge is made) 
+*without* permission of the author. It is yours to use and enjoy for 30 
+days, but at the end of that time, if you are still using this font you 
+are morally obligated to send in the shareware fee which is $.6.00 If you 
+require the extended ASTRO font that includes Asteroids and zodiacal 
+pictographs, send $12.50.
+
+I have a secure web page that can take paypal or a credit card at:
+http://www.radioastrology.com/FCart.htm
+
+By registering, I can inform you of updates and new releases. Many less
+expensive fonts are simply scanned images that have not been optimally
+hand tuned, so please do not commercially exploit this font.
+
+As of 4/22/00, I have the following highly specialized fonts available:
+
+Font              Shareware Fee    Full Version Fee
+----              -------------    -----------------
+Astro                $6.00           $12.50  full=Extended version
+Alchemy              $6.00           $16.00  full=Extended version
+American Indian     $11.50           $11.50  full is same as shareware
+Sequoyah            $12.50           $12.50  Cherokee language font
+GD_Enochian         $15.00           $15.00  Enochian glyphs & some Astro
+Arabic              $15.00           $15.00  Arabic, Farsi, Urdu chars
+Flowchart           $15.00           $15.00
+Special Pi             N/A           $12.50
+Circle Bullets         N/A           $10.00
+Arrow Bullets          N/A           $10.00
+
+All TrueType fonts are compiled for optimal utilization on PC systems. 
+Many less expensive fonts are simply scanned  images that have not been 
+optimally hand tuned, so please do not commercially exploit this font. 
+
+This Astro font is Copyright, 1993, by Keneth Hirst. All Rights
+Reserved. Kenneth Hirst, Irvine CA 92604  USA.
+
+E-mail #: 2Cosmorama@cox.net
+
+http://sites.google.com/site/cosmoramaent/home
+
+http://www.radioastrology.com
+
+or search for 
+
+font "Kenneth Hirst"
+
+using Google if all else fails.
+Tel: (949) 733-0423
