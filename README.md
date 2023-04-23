@@ -8,7 +8,6 @@ Download the Free, Open-Source RainMeter utility for Windows [from here](https:/
 ## 1 - New Moon
 ![20](https://user-images.githubusercontent.com/108805667/233842178-8b87bd32-7810-4e9f-b050-ac8894539824.png)
 
-![Desktop](https://user-images.githubusercontent.com/108805667/233841974-e24e9c17-5fa5-40cf-b142-86805bb48315.PNG)
 Display real-time moon phase information on your desktop! 
 
 This Rainmeter skin may be more accurately referred to as *"The Current Moon Phase"*. 
